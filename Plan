@@ -1,0 +1,18 @@
+Read the image
+Noise reduction
+Binarization steps with opencv
+Canny to display the contours
+
+Loop to see the contours one by one : 
+
+contour approximation of a shape 
+if this contour has 4 sides and > of a certain area
+break to limit the operations
+
+color ratio > certain threshold on the B&W image
+draw rectangular approx contour and text
+
+projection on the rectangle contour found
+
+detection of contours(letters)
+recognition of letters
